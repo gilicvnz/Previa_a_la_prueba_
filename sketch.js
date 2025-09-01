@@ -1,3 +1,30 @@
+const trabajitos = [
+    {
+        id: 1,
+        photo: "https://gilicvnz.github.io/Previa_a_la_prueba_/img/20250505_112837 (4).webp",
+        title: "Guante de Barista",
+        description: "Claudio Ribalta",
+    },
+    {
+        id: 2,
+        photo:  "https://gilicvnz.github.io/Previa_a_la_prueba_/img/20250505_112837 (2) (1).webp",
+        title: "No Pareces",
+        description: "Pamela Petruska",
+    },
+    {
+        id: 3,
+        photo:  "https://gilicvnz.github.io/Previa_a_la_prueba_/img/20250505_112837 (1) (1).webp",
+        title: "Cartas Tarot Anne with an E",
+        description: "Grace Mallea",
+    },
+    
+    {
+        id: 4,
+        photo:  "https://gilicvnz.github.io/Previa_a_la_prueba_/img/20250505_112837 (3) (1).webp",
+        title: "Evolución de Especies",
+        description: "René Perea",
+    },
+];
 const datos = [
     {
         id: 1,
