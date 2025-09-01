@@ -237,7 +237,7 @@ var otrxs = [];
 
 
 datos.forEach((x) => {
-    if (x.nombre == "Martina Urzúa") {
+    if (x.nombre == "Angelina Caviedes") {
         yo = x;
     } else {
         otrxs.push(x);
@@ -263,7 +263,7 @@ function setup() {
     //Lo que sigue es JavaScript a secas
     otrxs.forEach((x)=>{
         document.querySelector("#otredad").innerHTML += `<div><a href="${x.cuenta}"><img src="${x.foto}" title="${x.esperado}"></a></div>`;
-     });
+    });
     //Copy-paste, y arreglín
     trabajitos.forEach((x)=>{
         document.querySelector("#portafolio").innerHTML += `<div><img src="${x.photo}"><p>"${x.title}</p></div>`;
